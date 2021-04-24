@@ -1,8 +1,0 @@
-http://localhost:8080/register
-http://localhost:8080/authorization
-http://localhost:8080/logout
-http://localhost:8080/update-name
-http://localhost:8080/update-password
-
-http://localhost:8080/operation?num1=10&num2=5&method=multiply
-http://localhost:8080/history

@@ -31,7 +31,6 @@
                         <button type="submit" width="100%" class="btn btn-warning btn-lg">Изменить пароль</button>
                     </div>
                 </div>
-        </div>
         </form>
     </div>
 </div>

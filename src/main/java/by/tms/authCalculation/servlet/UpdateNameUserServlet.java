@@ -2,7 +2,6 @@ package by.tms.authCalculation.servlet;
 
 import by.tms.authCalculation.config.TypeMessageEnum;
 import by.tms.authCalculation.entity.FrontMessage;
-import by.tms.authCalculation.entity.Operation;
 import by.tms.authCalculation.entity.User;
 import by.tms.authCalculation.exception.FieldNotChangedException;
 import by.tms.authCalculation.exception.ParametersNotPassedException;

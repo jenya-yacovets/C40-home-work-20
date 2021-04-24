@@ -25,7 +25,6 @@
               <button type="submit" width="100%" class="btn btn-info btn-lg">Изменить имя</button>
             </div>
           </div>
-        </div>
       </form>
     </div>
   </div>
